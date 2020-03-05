@@ -27,3 +27,4 @@ Habrahabr,http://habrahabr.ru/search/?q={query}
 Dribble,https://dribbble.com/search?q={query}
 Dribble (latest),https://dribbble.com/search?q={query}&s=latest
 Homebrew packages,http://brewformulas.org/search?utf8=✓&search%5Bterms%5D={query}&button=&search%5Bnames%5D=0&search%5Bnames%5D=1&search%5Bfilenames%5D=0&search%5Bfilenames%5D=1&search%5Bdescriptions%5D=0&search%5Bdescriptions%5D=1
+git,https://git-scm.com/search/results?search={query}
