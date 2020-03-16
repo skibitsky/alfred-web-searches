@@ -3,9 +3,14 @@ g: GitHub (code),https://GitHub.com/search?q={query}&ref=searchresults&type=Code
 g: GitHub (users),https://GitHub.com/search?o=desc&q={query}&ref=searchresults&s=followers&type=Users&utf8=%E2%9C%93
 g: GitHub (most forks),https://GitHub.com/search?o=desc&q={query}&ref=searchresults&s=forks&type=Repositories&utf8=✓
 g: GitHub (most starred),https://GitHub.com/search?utf8=%E2%9C%93&q={query}&type=Repositories&ref=searchresults&o=desc&s=stars
+g: GitHub (C#) (code), https://github.com/search?o=desc&q=language%3AC%23+%22{query}%22&s=indexed&type=Code&utf8=%E2%9C%93
 g: GitHub (C#) (best match),https://github.com/search?q={query}+language%3AC%23&type=Repositories
 g: GitHub (C#) (most stars),https://github.com/search?q={query}+language%3AC%23&s=stars&type=Repositories
 g: GitHub (C#) (recent updated),https://github.com/search?q={query}+language%3AC%23&s=updated&type=Repositories
+g: GitHub (go) (code), https://github.com/search?o=desc&q=language%3Ago+%22{query}%22&s=indexed&type=Code&utf8=%E2%9C%93
+g: GitHub (go) (best match),https://github.com/search?q={query}+language%3Ago&type=Repositories
+g: GitHub (go) (most stars),https://github.com/search?q={query}+language%3Ago&s=stars&type=Repositories
+g: GitHub (go) (recent updated),https://github.com/search?q={query}+language%3Ago&s=updated&type=Repositories
 CoinMarketCap (CMC),https://coinmarketcap.com/search/?q={query}
 Rutracker,http://rutracker.org/forum/tracker.php?nm={query}
 Unsplash,https://unsplash.com/search/photos/{query}
@@ -17,13 +22,17 @@ Hacker News (HN) (comments past month),https://hn.algolia.com/?query={query}&sor
 Alfred,https://www.alfredapp.com/search/?q={query}
 r: Unix porn,https://www.reddit.com/r/unixporn/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: C#,https://www.reddit.com/r/csharp/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Golang, https://www.reddit.com/r/golang/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Mac,https://www.reddit.com/r/mac/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Minimalism,https://www.reddit.com/r/minimalism/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Swift,https://www.reddit.com/r/swift/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Unity,https://www.reddit.com/r/unity3D/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Libertarian,https://www.reddit.com/r/Libertarian/search?q={query}&restrict_sr=on&sort=relevance&t=all
 s: Game development,http://gamedev.stackexchange.com/search?q={query}
 Emojipedia,https://emojipedia.org/search/?q={query}
 Habrahabr,http://habrahabr.ru/search/?q={query}
 Dribble,https://dribbble.com/search?q={query}
 Dribble (latest),https://dribbble.com/search?q={query}&s=latest
 Homebrew packages,http://brewformulas.org/search?utf8=✓&search%5Bterms%5D={query}&button=&search%5Bnames%5D=0&search%5Bnames%5D=1&search%5Bfilenames%5D=0&search%5Bfilenames%5D=1&search%5Bdescriptions%5D=0&search%5Bdescriptions%5D=1
+YouTube (YT),https://www.youtube.com/results?search_query={query}
+Unity Asset Store, https://assetstore.unity.com/?q={query}&orderBy=0
