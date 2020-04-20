@@ -28,6 +28,7 @@ r: Minimalism,https://www.reddit.com/r/minimalism/search?q={query}&restrict_sr=o
 r: Swift,https://www.reddit.com/r/swift/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Unity,https://www.reddit.com/r/unity3D/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Libertarian,https://www.reddit.com/r/Libertarian/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Siri Shortcuts,https://www.reddit.com/r/shortcuts/search?q={query}&restrict_sr=on&sort=relevance&t=all
 s: Game development,http://gamedev.stackexchange.com/search?q={query}
 Emojipedia,https://emojipedia.org/search/?q={query}
 Habrahabr,http://habrahabr.ru/search/?q={query}
