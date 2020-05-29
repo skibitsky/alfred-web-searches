@@ -38,3 +38,5 @@ Homebrew packages,http://brewformulas.org/search?utf8=✓&search%5Bterms%5D={que
 YouTube (YT),https://www.youtube.com/results?search_query={query}
 Unity Asset Store, https://assetstore.unity.com/?q={query}&orderBy=0
 ProductHunt, https://www.producthunt.com/search?q={query}
+DuckDuckGo (DDG), https://duckduckgo.com/?q={query}
+Letterboxd, https://letterboxd.com/search/{query}
