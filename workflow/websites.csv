@@ -13,6 +13,7 @@ g: GitHub (go) (most stars),https://github.com/search?q={query}+language%3Ago&s=
 g: GitHub (go) (recent updated),https://github.com/search?q={query}+language%3Ago&s=updated&type=Repositories
 CoinMarketCap (CMC),https://coinmarketcap.com/search/?q={query}
 Rutracker,http://rutracker.org/forum/tracker.php?nm={query}
+The Pirate Bay,https://thepiratebay.org/search.php?q={query}&cat=0
 Unsplash,https://unsplash.com/search/photos/{query}
 f: Keyboard Maestro,https://forum.keyboardmaestro.com/search?q={query}
 Hacker  (HN) (past month),https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=all
@@ -27,6 +28,7 @@ r: Mac,https://www.reddit.com/r/mac/search?q={query}&restrict_sr=on&sort=relevan
 r: Minimalism,https://www.reddit.com/r/minimalism/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Swift,https://www.reddit.com/r/swift/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Unity,https://www.reddit.com/r/unity3D/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Gamedev,https://www.reddit.com/r/gamedev/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Libertarian,https://www.reddit.com/r/Libertarian/search?q={query}&restrict_sr=on&sort=relevance&t=all
 r: Siri Shortcuts,https://www.reddit.com/r/shortcuts/search?q={query}&restrict_sr=on&sort=relevance&t=all
 s: Game development,http://gamedev.stackexchange.com/search?q={query}
@@ -41,3 +43,4 @@ ProductHunt, https://www.producthunt.com/search?q={query}
 DuckDuckGo (DDG), https://duckduckgo.com/?q={query}
 Letterboxd, https://letterboxd.com/search/{query}
 Sourcegraph, https://sourcegraph.com/search?q={query}
+Goodreads, https://www.goodreads.com/search?q={query}
