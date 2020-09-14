@@ -44,3 +44,4 @@ DuckDuckGo (DDG), https://duckduckgo.com/?q={query}
 Letterboxd, https://letterboxd.com/search/{query}
 Sourcegraph, https://sourcegraph.com/search?q={query}
 Goodreads, https://www.goodreads.com/search?q={query}
+Dev, https://dev.to/search?q={query}
