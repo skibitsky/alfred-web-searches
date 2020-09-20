@@ -1,4 +1,5 @@
 g: GitHub,https://GitHub.com/search?utf8=✓&q={query}&type=
+g: GitHub Actions,https://github.com/marketplace?type=actions&query={query}
 g: GitHub (code),https://GitHub.com/search?q={query}&ref=searchresults&type=Code&utf8=%E2%9C%93
 g: GitHub (users),https://GitHub.com/search?o=desc&q={query}&ref=searchresults&s=followers&type=Users&utf8=%E2%9C%93
 g: GitHub (most forks),https://GitHub.com/search?o=desc&q={query}&ref=searchresults&s=forks&type=Repositories&utf8=✓
