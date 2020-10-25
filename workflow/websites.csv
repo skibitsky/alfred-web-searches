@@ -46,3 +46,4 @@ Letterboxd, https://letterboxd.com/search/{query}
 Sourcegraph, https://sourcegraph.com/search?q={query}
 Goodreads, https://www.goodreads.com/search?q={query}
 Dev, https://dev.to/search?q={query}
+Eneba, https://www.eneba.com/search?text={query}
