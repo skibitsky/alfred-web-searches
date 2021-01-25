@@ -22,16 +22,16 @@ Hacker News (HN) (past year),https://hn.algolia.com/?query={query}&sort=byPopula
 Hacker News (HN) (stories all time),https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=all&type=story
 Hacker News (HN) (comments past month),https://hn.algolia.com/?query={query}&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=comment
 Alfred,https://www.alfredapp.com/search/?q={query}
-r: Unix porn,https://www.reddit.com/r/unixporn/search?q={query}&restrict_sr=on&sort=relevance&t=all
-r: C#,https://www.reddit.com/r/csharp/search?q={query}&restrict_sr=on&sort=relevance&t=all
-r: Golang, https://www.reddit.com/r/golang/search?q={query}&restrict_sr=on&sort=relevance&t=all
-r: Mac,https://www.reddit.com/r/mac/search?q={query}&restrict_sr=on&sort=relevance&t=all
-r: Minimalism,https://www.reddit.com/r/minimalism/search?q={query}&restrict_sr=on&sort=relevance&t=all
-r: Swift,https://www.reddit.com/r/swift/search?q={query}&restrict_sr=on&sort=relevance&t=all
-r: Unity,https://www.reddit.com/r/unity3D/search?q={query}&restrict_sr=on&sort=relevance&t=all
-r: Gamedev,https://www.reddit.com/r/gamedev/search?q={query}&restrict_sr=on&sort=relevance&t=all
-r: Libertarian,https://www.reddit.com/r/Libertarian/search?q={query}&restrict_sr=on&sort=relevance&t=all
-r: Siri Shortcuts,https://www.reddit.com/r/shortcuts/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Unix porn,https://teddit.net/r/unixporn/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: C#,https://teddit.net/r/csharp/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Golang, https://teddit.net/r/golang/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Mac,https://teddit.net/r/mac/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Minimalism,https://teddit.net/r/minimalism/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Swift,https://teddit.net/r/swift/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Unity,https://teddit.net/r/unity3D/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Gamedev,https://teddit.net/r/gamedev/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Libertarian,https://teddit.net/r/Libertarian/search?q={query}&restrict_sr=on&sort=relevance&t=all
+r: Siri Shortcuts,https://teddit.net/r/shortcuts/search?q={query}&restrict_sr=on&sort=relevance&t=all
 s: Game development,http://gamedev.stackexchange.com/search?q={query}
 Emojipedia,https://emojipedia.org/search/?q={query}
 Habrahabr,http://habrahabr.ru/search/?q={query}
